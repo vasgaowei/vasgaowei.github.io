@@ -2,12 +2,12 @@
 #  BASIC SITE INFO
 # --------------------------------------------------
 title: Wei Gao   # Main site title (appears in browser tab & RSS)
-tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
-description: Here is personal website of Hanlin Cai, PhD Student at the University of Cambridge.  # Strongly recommended for SEO & social cards
+tagline: Here is personal website of Wei Gao. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
+description: Here is personal website of Wei Gao, PhD Student at the University of Tsinghua.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://vasgaowei.github.io/
+url: https://vasgaowei.github.io
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
