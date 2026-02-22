@@ -1,7 +1,7 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Hanlin Cai   # Main site title (appears in browser tab & RSS)
+title: Wei Gao   # Main site title (appears in browser tab & RSS)
 tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
 description: Here is personal website of Hanlin Cai, PhD Student at the University of Cambridge.  # Strongly recommended for SEO & social cards
 
@@ -13,7 +13,7 @@ url: https://vasgaowei.github.io/
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Gao Wei
+  name: Wei Gao
   avatar: thu_logo.png   # 清华校徽（正方形）
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: vasgaowei@gmail.com
