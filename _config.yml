@@ -7,25 +7,25 @@ description: Here is personal website of Hanlin Cai, PhD Student at the Universi
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://vasgaowei.github.io/
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
   name: Gao Wei
-  avatar: cam_logo.png   # 剑桥校徽（正方形）
+  avatar: thu_logo.png   # 剑桥校徽（正方形）
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: vasgaowei@gmail.com
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: https://x.com/vasgaoweiTHU
-  github: https://github.com/vasgaowei
-  linkedin: https://www.linkedin.com/in/wei-gao-a19846140/
+  twitter: vasgaoweiTHU
+  github: vasgaowei
+  linkedin: wei-gao-a19846140
   scholar: https://scholar.google.com/citations?user=VfovrnEAAAAJ&hl=en
   zhihu: https://www.zhihu.com/people/vasgaowei
-  xiaohongshu: https://www.xiaohongshu.com/user/profile/626d1ddd0000000021021dc3
+  xiaohongshu: 626d1ddd0000000021021dc3
   # instagram: lancecai2002
   # bilibili: 594030035
   # facebook: caihanlin2002
@@ -36,7 +36,7 @@ owner:
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+google_verify: "naKX2G_dfrZTFx763Qw-Askcp1NKzqlS3CaoZzh8mEA"
 # bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
 

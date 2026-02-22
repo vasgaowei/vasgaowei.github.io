@@ -27,4 +27,8 @@ I am always open to academic discussions and potential collaborations. Please fe
 - **Aug 2021：** Discrepant multiple instance learning for weakly supervised object detection is accept by Pattern Recognition
 - **July 2021：** TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization is accept by ICCV 2021
 
+## Education
+- **Sep 2014 - July 2018**: [Department of Automation](https://www.au.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/)
+- **Sep 2018 - July 2021**: [University of Chinese Academy of Science ](https://www.ucas.ac.cn/)
+
 <br>
