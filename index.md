@@ -31,4 +31,13 @@ I am always open to academic discussions and potential collaborations. Please fe
 - **Sep 2014 - July 2018**: [Department of Automation](https://www.au.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/)
 - **Sep 2018 - July 2021**: [University of Chinese Academy of Science ](https://www.ucas.ac.cn/)
 
+---
+
+## Work Experience
+
+- **Oct 2024 - Present**: Algorithm Engineer at ByteDance, Beijing, China
+- **Jun 2024 - Oct 2024**: Algorithm Engineer at ZEEKR, Beijing, China
+- **Nov 2021 - Jun 2024**: Computer Vision Algorithm Engineer at Alibaba Group (Amap), Beijing, China
+  - BEV perception, cloud-based lane line vectorization
+
 <br>
